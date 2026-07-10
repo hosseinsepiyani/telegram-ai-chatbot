@@ -4,11 +4,11 @@ The workflow receives Telegram messages, processes them using an AI Agent powere
 
 ## Features
 
-- AI-powered Telegram chatbot
-- Built with n8n
-- OpenRouter integration
-- Automatic replies
-- Easy to customize
+- 🤖 AI-powered Telegram chatbot
+- ⚙️ Built with n8n
+- 🧠 OpenRouter LLM integration
+- 💬 Automatic AI responses
+- 🔧 Easy to customize
 
 ## Workflow Architecture
 
