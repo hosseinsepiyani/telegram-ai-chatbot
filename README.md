@@ -37,3 +37,6 @@ The workflow receives Telegram messages, processes them using an AI Agent powere
 │ Reply User   │
 └──────────────┘
 ```
+## Workflow Preview
+
+![Workflow Overview](screenshots/workflow-overview.png)
