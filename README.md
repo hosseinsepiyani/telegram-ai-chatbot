@@ -40,3 +40,9 @@ The workflow receives Telegram messages, processes them using an AI Agent powere
 ## Workflow Preview
 
 ![Workflow Overview](screenshots/workflow.png)
+
+👨‍💻 Author
+Hossein Sepiyani
+
+🔗 LinkedIn: https://linkedin.com/in/hosseinsepiyani
+⭐ If you found this project interesting, consider giving it a star!
